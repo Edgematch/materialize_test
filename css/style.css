@@ -1,0 +1,74 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    color: #00377D;
+    
+}
+.row{
+   margin-bottom: 0px;
+}
+
+#navegacion{
+    background-color: #f4f4f4;
+    position: relative;
+}
+
+
+.logo{
+    font-family: 'Pacifico', cursive !important;
+    color: #0093E9;
+    padding: 20px;
+    border-radius: 25px;
+    margin: 0;
+    position: absolute;
+    top: 70px;
+    left: 25px;
+}
+
+.btn{
+    border-radius: 25px;
+    background: rgb(0,55,125);
+}
+
+.btn:hover{
+    background-color: #787878;
+}
+
+.btn-small{
+    border-radius: 25px;
+    background: rgb(0,55,125);
+    background: linear-gradient(98deg, rgba(0,55,125,0.7945553221288515) 35%, rgba(50,180,220,1) 100%);
+}
+
+.slogan{
+    padding: 3% 5%;
+    margin: 0;
+}
+
+#contenido{
+    margin-top: 50px;
+}
+
+.social-media{
+    width: 80%;
+    padding: 10px;
+}
+
+.foto-galeria{
+    width: 100%;
+    margin: 2%;
+}
+
+#blog{
+    background: rgb(0,55,125);
+    background: linear-gradient(98deg, rgba(0,55,125,0.7945553221288515) 35%, rgba(50,180,220,1) 100%);
+}
+
+.card-panel{
+    border-radius: 25px;
+    margin: 2%;
+}
+
+.foto-blog{
+    width: 200px;
+    margin: 10px;
+}
